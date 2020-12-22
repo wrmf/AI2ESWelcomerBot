@@ -1,0 +1,1 @@
+cussWords = ["retard","Retard","Faggot","faggot","cunt","Cunt","nigger","Nigger"]
